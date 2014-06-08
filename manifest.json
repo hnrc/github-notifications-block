@@ -1,0 +1,11 @@
+{
+  "name": "GitHub Notifications Block",
+  "version": "1.0",
+  "description": "All work and no play makes jack a dull boy",
+  "permissions": ["webRequest", "webRequestBlocking",
+                  "*://*.github.com/notifications*"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2
+}
