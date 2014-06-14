@@ -5,3 +5,8 @@ Array.prototype.forEach.call(document.getElementsByClassName("mail-status"), fun
 Array.prototype.forEach.call(document.getElementsByClassName("news"), function(el) {
   el.style.visibility = "hidden";
 });
+
+var notificationCenter = document.getElementById("notification-center");
+if(notificationCenter) {
+  notificationCenter.style.visibility = "hidden";
+}
