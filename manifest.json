@@ -1,7 +1,7 @@
 {
   "name": "GitHub Vacation Mode",
   "version": "1.0",
-  "description": "Hide all elements showing notifications across github.com",
+  "description": "Hide all elements showing notifications all over github.com",
   "icons": {
   	"48": "beach_chair_48x48.png"
   },
