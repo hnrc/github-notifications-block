@@ -1,6 +1,6 @@
-GitHub Vacation Mode™ :sunglasses:
+GitHub Vacation Mode™ :sunglasses: :palm_tree: :sunny: :beers: :tropical_drink: :surfer:
 ==========================
 
-Chrome extension for hiding all the notification thingies going on across github.com. Perfect for people with "must…check… notifications…" OCD on vacation.
+Chrome extension for hiding all the notification thingies going on across github.com. Perfect for people on vacation with "must…check… notifications…" OCD.
 
-:sunglasses: :palm_tree: :sunny: :beers: :tropical_drink: :surfer:
+
