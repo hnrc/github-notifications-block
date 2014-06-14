@@ -1,11 +1,21 @@
 {
-  "name": "GitHub Notifications Block",
+  "name": "GitHub Vacation Mode (hide notifications)",
   "version": "1.0",
-  "description": "All work and no play makes jack a dull boy",
+  "description": "Block access to /notifications and hide all elements that show notifications across github.com",
+  "icons": {
+  	"48": "beach_chair_48x48.png"
+  },
   "permissions": ["webRequest", "webRequestBlocking",
                   "*://*.github.com/notifications*"],
   "background": {
     "scripts": ["background.js"]
   },
+  "content_scripts": [
+    {
+      "matches": ["*://*.github.com/*"],
+      "run_at": "document_end",
+      "js": ["content.js"]
+    }
+  ],
   "manifest_version": 2
 }
