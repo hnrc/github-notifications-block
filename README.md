@@ -7,7 +7,7 @@ Perfect for people on vacation with "must…check… notifications…" OCD.
 
 Because :sunglasses: :palm_tree: :sunny: :beers: :tropical_drink: :surfer:
 
-# Installation
+## Installation
 1. Clone this repo
 1. https://developer.chrome.com/extensions/getstarted#unpacked
 1. ...
