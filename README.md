@@ -12,3 +12,7 @@ Because :sunglasses: :palm_tree: :sunny: :beers: :tropical_drink: :surfer:
 1. https://developer.chrome.com/extensions/getstarted#unpacked
 1. ...
 1. Profit
+
+## Contribute
+
+Do the pull request dance! :dancers:
