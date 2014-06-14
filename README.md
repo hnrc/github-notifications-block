@@ -1,7 +1,7 @@
 GitHub Vacation Mode™ 
 ==========================
 
-Chrome extension for hiding all the notification thingies going on across github.com. 
+Chrome extension for hiding all the notification thingies going on all over github.com. 
 
 Perfect for people on vacation with "must…check… notifications…" OCD.
 
